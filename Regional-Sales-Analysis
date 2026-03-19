@@ -1,0 +1,20 @@
+Regional-Sales-Analysis/
+├── README.md                          # Main project overview
+├── data/
+│   └── sales_data_sample.csv          # Sample dataset (anonymized if needed)
+├── notebooks/
+│   ├── 01_Data_Exploration.ipynb      # EDA notebook
+│   ├── 02_Data_Cleaning.ipynb         # Data prep
+│   └── 03_Analysis.ipynb              # Analysis & insights
+├── dashboards/
+│   ├── Regional_Sales_Dashboard.pbix  # Power BI file
+│   └── dashboard_screenshots/
+│       ├── overview.png
+│       ├── regional_performance.png
+│       └── product_analysis.png
+├── presentations/
+│   └── Regional_Sales_Analysis_Presentation.pptx
+├── reports/
+│   └── Executive_Summary.md
+└── docs/
+    └── Project_Documentation.md
